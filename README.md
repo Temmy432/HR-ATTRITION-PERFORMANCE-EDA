@@ -196,6 +196,8 @@ NumCompaniesWorked (-0.056)
 
 Compensation-related factors have minimal effect on satisfaction
 
+![](Images/Screenshot%202025-07-25%20164355.png) 
+
 
 
 8. Key Insights
