@@ -105,6 +105,7 @@ By Education: Higher education leads to higher income
 
 By Department: R&D leads in income; HR ranks lowest
 
+
 7.4 Distance from Home by Role
 
 Sales Executives and Research Scientists have the longest commutes
