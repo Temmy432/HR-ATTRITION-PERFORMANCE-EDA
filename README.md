@@ -156,19 +156,25 @@ Rating 3 employees receive 11%–19% hikes
 
 Clear, categorical differentiation in hike structure
 
+![](Images/Screenshot%202025-07-24%20163715.png)   
+
 7.7 Average Salary Hike
 
 Rating 3: 14.0%
 
-Rating 4: 21.8%
+Rating 4: 21.8%  
 
 7.8% differential favoring higher performers
+
+![](Images/Screenshot%202025-07-24%20164427.png)
 
 7.8 Monthly Income vs. Attrition
 
 Employees who stayed had higher and more varied income
 
 Those who left had lower, concentrated income
+
+![](Images/Screenshot%202025-07-24%20164427.png)  
 
 7.9 Correlation with Job Satisfaction
 
@@ -189,6 +195,8 @@ HourlyRate (-0.071)
 NumCompaniesWorked (-0.056)
 
 Compensation-related factors have minimal effect on satisfaction
+
+
 
 8. Key Insights
 
