@@ -95,7 +95,7 @@ Removed redundant or non-informative columns
 61% report moderate to high satisfaction (Levels 3–4)
 
 39% report low satisfaction (Levels 1–2)
-![](Images/Screenshot%202025-04-22%20095233.png)   Screenshot 2025-04-22 095233
+![](Images/Screenshot%202025-07-22%20170122.png)      
 
 7.3 Monthly Income Patterns
 
