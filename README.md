@@ -122,6 +122,7 @@ By Gender:
 
 •  This shows that females earn approximately $306 more per month on average than males.
 
+
 ![](Images/Screenshot%202025-07-22%20232646.png)     
 
 
@@ -131,6 +132,7 @@ This analysis shows that monthly income increases with education level, rising f
 
 education leads to better-paying and more diverse job opportunities.
 
+
 ![](Images/Screenshot%202025-07-22%202339056.png)  
 
 
@@ -139,6 +141,7 @@ By Department
 The chart shows that Research & Development has the highest total monthly income at $6,036,284, followed by Sales with $3,103,791, while Human Resources earns the least at $419,234. This indicates that Research 
 
 &Development contributes the most financially among all departments.
+
 
 ![](Images/Screenshot%202025-07-23%201612411.png)  
 
