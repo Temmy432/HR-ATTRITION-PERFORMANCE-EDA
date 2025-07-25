@@ -128,6 +128,8 @@ Sales Executives and Research Scientists have the longest commutes
 
 HR staff typically live closer to work
 
+![](Images/Screenshot%202025-07-23%20161543.png) 
+
 7.5 Attrition Trends
 
 Overall attrition: 16% (237 employees)
