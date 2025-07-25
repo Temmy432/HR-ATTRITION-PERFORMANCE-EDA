@@ -106,9 +106,21 @@ By Education: Higher education leads to higher income
 By Department: R&D leads in income; HR ranks lowest
 ![](Images/Screenshot%202025-07-22%20232646.png)     
 
+
+
+
+
 ![](Images/Screenshot%202025-07-22%202339056.png)  
 
+
+
+
+
 ![](Images/Screenshot%202025-07-23%201612411.png)  
+
+
+
+
 
 7.4 Distance from Home by Role
 
