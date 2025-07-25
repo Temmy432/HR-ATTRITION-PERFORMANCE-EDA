@@ -134,11 +134,19 @@ HR staff typically live closer to work
 
 Overall attrition: 16% (237 employees)
 
+![](Images/Screenshot%202025-07-23%20161758.png) 
+
 Overtime: 54% of those who left were working overtime
+
+![](Images/Screenshot%202025-07-24%20143406.png) 
 
 Experience: Highest attrition in 0–6 years of experience
 
+![](Images/Screenshot%202025-07-24%20162624.png)  
+
 Job Role: Sales Reps and Lab Technicians show higher turnover; Managers and Directors show stability
+
+![](Images/Screenshot%202025-07-24%20163244.png) 
 
 7.6 Performance Rating vs. Salary Hike
 
