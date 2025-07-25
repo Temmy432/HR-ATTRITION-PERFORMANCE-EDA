@@ -174,7 +174,7 @@ Employees who stayed had higher and more varied income
 
 Those who left had lower, concentrated income
 
-![](Images/Screenshot%202025-07-24%20164427.png)  
+![](Images/Screenshot%202025-07-24%20164954.png)  
 
 7.9 Correlation with Job Satisfaction
 
