@@ -141,10 +141,7 @@ The chart shows that Research & Development has the highest total monthly income
 Development contributes the most financially among all departments.
 
 
-
-![](Images/Screenshot%202025-07-23%201612411.png)  
-
-
+![](Images/Screenshot%202025-07-23%20161241.png) 
 
 
 7.4 Distance from Home by Role
