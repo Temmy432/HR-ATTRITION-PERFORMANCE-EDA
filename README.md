@@ -132,10 +132,7 @@ This analysis shows that monthly income increases with education level, rising f
 
 higher education leads to better-paying and more diverse job opportunities.
 
-
-![](Images/Screenshot%202025-07-22%202339056.png)
-
-
+![](Images/Screenshot%202025-07-22%20233905.png)
 
 By Department
 
